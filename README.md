@@ -2,4 +2,5 @@
 
 link: https://yumedakuzaku.github.io/calculator/
 
-![image](https://user-images.githubusercontent.com/63512780/172907825-b3893537-b102-4117-a5dd-06fc7600bc94.png)
+![image](https://user-images.githubusercontent.com/63512780/172908148-156a8b34-68b3-4661-a4e6-432d03cb73ea.png)
+
